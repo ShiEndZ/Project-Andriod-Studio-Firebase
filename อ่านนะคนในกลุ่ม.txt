@@ -1,0 +1,3 @@
+ใช้ android studio open ไฟล์ทั้งอัน
+
+ถ้าจะดูไฟล์ app src main  แล้วจะมี java กับ  res ใช้ดูไฟล์งานที่ทำ
